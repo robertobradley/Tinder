@@ -3,16 +3,16 @@
 
 **Tinder** is a mock Tindr app featuring gestures and custom transitions
 
-Time spent: ** ** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User can drag card using a pan gesture (+1pt)
-- [ ] Card rotates as user pans (+1pt)
-- [ ] Card animates when user ends panning gesture (+2pt)
-- [ ] User can view profile - basic modal transition (+1pt)
+- [x] User can drag card using a pan gesture (+1pt)
+- [x] Card rotates as user pans (+1pt)
+- [x] Card animates when user ends panning gesture (+2pt)
+- [x] User can view profile - basic modal transition (+1pt)
 
 The following **stretch** user stories are implemented:
 
@@ -20,20 +20,21 @@ The following **stretch** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. I would like a better in depth talk about rotation math in general
+2. I would like to talk about how to better codepath's steps to figure out this lab
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/zUf2Em1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
+The lab did not have clear direction to how it needs to be done. I would have liked to know that matrix math would have been involved. There was a lot of drections missing from this particular lab. 
 
 ## License
 
